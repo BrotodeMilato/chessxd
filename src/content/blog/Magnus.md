@@ -6,7 +6,7 @@ image: {
     src: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Magnus_Carlsen_in_2023_%2852638329349%29.jpg/1024px-Magnus_Carlsen_in_2023_%2852638329349%29.jpg",
     alt: "Magnus"
 }
-publishDate: "2022-11-07 15:39"
+publishDate: "2024-4-02 17:30"
 category: "Biografias"
 author: "Pirson"
 tags: [magnus, biografes, figuras]
