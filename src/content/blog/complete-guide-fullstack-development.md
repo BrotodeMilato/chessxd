@@ -1,15 +1,15 @@
 ---
 draft: false
-title: "The Complete Guide to Full Stack Web Development"
-snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
+title: "Todo sobre la defensa Caro-Kann"
+snippet: "Aqui aprenderas sobre la defensa Caro-Kann"
 image: {
-    src: "https://images.unsplash.com/photo-1593720213428-28a5b9e94613?&fit=crop&w=430&h=240",
-    alt: "full stack web development"
+    src: "https://i0.wp.com/chesspathways.com/wp-content/uploads/2019/08/2i-300x300.png?ssl=1",
+    alt: "Defensa Caro-Kann"
 }
-publishDate: "2022-11-08 11:39"
-category: "Tutorials"
-author: "Janette Lynch"
-tags: [webdev, tailwindcss, frontend]
+publishDate: "2024-04-02 15:47"
+category: "Tutoriales"
+author: "Pirson"
+tags: [ajedrez, informativo, tutos]
 ---
 
 La Defensa Caro-Kann es una apertura de ajedrez sólida y confiable, utilizada por muchos jugadores de todos los niveles para contrarrestar la apertura del peón de rey de las blancas. En esta guía completa, exploraremos todos los aspectos esenciales de la Defensa Caro-Kann, desde sus fundamentos básicos hasta sus variantes más avanzadas y estrategias clave.
