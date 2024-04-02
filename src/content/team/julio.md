@@ -1,10 +1,10 @@
 ---
 draft: false
-name: "Robert Palmer"
+name: "Julio Perez"
 title: "Marketing Engineer"
 avatar: {
     src: "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?&fit=crop&w=280",
-    alt: "Robert Palmer"
+    alt: "Julio Perez"
 }
-publishDate: "2022-11-09 15:39"
+publishDate: "2024-04-02 16:08"
 ---

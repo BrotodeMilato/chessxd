@@ -8,7 +8,7 @@ image: {
 }
 publishDate: "2024-04-02 15:47"
 category: "Tutoriales"
-author: "Pirson"
+author: "Pirson, Hector, Julio y Broto"
 tags: [ajedrez, informativo, tutos]
 ---
 
