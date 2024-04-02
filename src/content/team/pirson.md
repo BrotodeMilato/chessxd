@@ -1,7 +1,7 @@
 ---
 draft: false
 name: "Pirson Bethancourt"
-title: "Senior Programmer"
+title: "Programmer"
 avatar: {
     src: "https://comicvine.gamespot.com/a/uploads/scale_medium/5/56185/1082024-arr.jpg",
     alt: "Pirson Bethancourt"

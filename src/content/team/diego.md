@@ -1,7 +1,7 @@
 ---
 draft: false
 name: "Diego Toribio"
-title: "Junior programmer"
+title: "Programmer"
 avatar: {
     src: "https://i.pinimg.com/736x/02/68/e8/0268e86179d1b862fcde9c6589cdf541.jpg",
     alt: "Broto"
