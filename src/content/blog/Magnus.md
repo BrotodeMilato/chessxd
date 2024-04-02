@@ -9,7 +9,7 @@ image: {
 publishDate: "2024-4-02 17:30"
 category: "Biografias"
 author: "Pirson"
-tags: [magnus, biografes, figuras]
+tags: [magnus, biografias, figuras]
 ---
 
 # Magnus Carlsen: El Gran Maestro del Ajedrez
