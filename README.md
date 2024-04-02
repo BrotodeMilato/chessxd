@@ -95,9 +95,9 @@ Any static assets, like images, can be placed in the `public/` directory.
 
 TailwindCSS is already configured in this repo, so you can start using it without any installation.
 
-## Credits
+## Creditoss
 
-[Hero Illustration](https://www.figma.com/community/file/1108400791662599811) by [Streamline](https://www.streamlinehq.com/)
+Dios
 
 ## Estudiar?
 
