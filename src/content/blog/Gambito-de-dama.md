@@ -3,7 +3,7 @@ draft: false
 title: "Gambito de Dama"
 snippet: "Ornare cum cursus laoreet sagittis nunc fusce posuere per euismod dis vehicula a, semper fames lacus maecenas dictumst pulvinar neque enim non potenti. Torquent hac sociosqu eleifend potenti."
 image: {
-    src: "https://static.wikia.nocookie.net/ajedrez/images/6/6c/Gambito_de_dama.PNG/revision/latest?cb=20201204195003&path-prefix=es",
+    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Queen%E2%80%99s_Gambit.jpg/800px-Queen%E2%80%99s_Gambit.jpg",
     alt: "data structures & algorithms"
 }
 publishDate: "2024-04-02 15:02"
