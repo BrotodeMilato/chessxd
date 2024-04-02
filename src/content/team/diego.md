@@ -3,7 +3,7 @@ draft: false
 name: "Diego Toribio"
 title: "Junior programmer"
 avatar: {
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/LeBronWizards1.jpg/1280px-LeBronWizards1.jpg",
+    src: "https://i.pinimg.com/736x/02/68/e8/0268e86179d1b862fcde9c6589cdf541.jpg",
     alt: "Broto"
 }
 publishDate: "2024-04-02 17:33"
